@@ -1,0 +1,57 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(images/abstract-white-gray-color-background-texture-with-diagonal-lines-vector-background_687553-184.jpg);
+    background-repeat: repeat;
+}
+
+.banner {
+    background-image: url('images/oriental-tiles.png');
+    background-size: contain;
+    text-align: center;
+    padding: 50px;
+}
+
+.banner h1 {
+    font-size: 2.5em;
+    color: floralwhite;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+.banner h4 {
+    font-size: 1.5em;
+    color: floralwhite;
+    font-weight: lighter;
+    margin-bottom: 10px;
+}
+
+.banner p {
+    font-size: 1.2em;
+}
+
+.main-content {
+    padding: 30px;
+    text-align: center;
+}
+div {  
+    width: auto;  
+    text-align: center;  
+    padding: 15px;  
+    border: 3px black;  
+    }  
+img {  
+    width: 375px;  
+    height: 450px;  
+    }  
+.main-content h2 {
+    color: #363232;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+}
